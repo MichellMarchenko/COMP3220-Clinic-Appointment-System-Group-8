@@ -1,2 +1,42 @@
-# COMP3220-Clinic-Appointment-System-Group-8
-COMP 3220 Clinic Appointment Booking System - Project Deliverable 1
+# Clinic Appointment System
+---
+
+**University of Windsor, COMP 3320 Team Project.**
+`Fall 2026`
+`Group 8`
+
+## Group Members
+| Name | GitHub username |
+| --- | --- |
+| `Michell Marchenko` | `@MichellMarchenko`|
+| `Darin Ty` | `@tydarin`|
+| `Gregory Eloi` | `@HalfasleepDev`|
+<!-- | `` | `@`| -->
+
+<!--
+## Overview
+## Current phase
+- [x] **PD1** `(Initial Prototype)` 
+    <details>
+
+    <summary>Implemented</summary>
+
+
+
+    </details>
+
+    <details>
+
+    <summary>Not Yet Implemented</summary>
+
+
+
+    </details>
+
+- [ ] **PD2**
+- [ ] **PD3**
+
+## Project structure
+## Deliverables
+--->
+
