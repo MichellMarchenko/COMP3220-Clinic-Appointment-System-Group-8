@@ -1,7 +1,7 @@
 # Clinic Appointment System
 ---
 
-**University of Windsor, COMP 3320 Team Project.**
+**University of Windsor, COMP 3220 Team Project.**
 `Fall 2026`
 `Group 8`
 
