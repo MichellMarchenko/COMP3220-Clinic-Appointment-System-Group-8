@@ -41,4 +41,12 @@ public class Appointment {
     public void setTime(String time) {
         this.time = time;
     }
+    
+    @Override
+    public String toString() {
+        return "Appointment for Patient ID: " + patient.getId()
+                + " with " + doctor.getName()
+                + " on " + date
+                + " at " + time;
+    }
 }
