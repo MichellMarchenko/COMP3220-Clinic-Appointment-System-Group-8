@@ -1,3 +1,5 @@
+// AI-assisted code 
+// Added matchesSlot() to check appointment conflicts.
 import javax.annotation.processing.Generated;
 import java.time.LocalDate;
 
