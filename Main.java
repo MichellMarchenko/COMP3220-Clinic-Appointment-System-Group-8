@@ -1,3 +1,6 @@
+// AI-assisted code
+// Changes: Reduced repeated booking checks, improved
+// appointment editing, and corrected clinic hours
 import javax.annotation.processing.Generated;
 import javafx.application.Application;
 import javafx.geometry.Insets;
