@@ -11,6 +11,7 @@
 | `Michell Marchenko` | `@MichellMarchenko`|
 | `Darin Ty` | `@tydarin`|
 | `Gregory Eloi` | `@HalfasleepDev`|
+| `Paul Tenzer` | `@newjammy`|
 <!-- | `` | `@`| -->
 
 <!--
